@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "node broadcast-server.js start",
+    "connect": "node broadcast-server.js connect"
+  }
+}
